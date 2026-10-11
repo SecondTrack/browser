@@ -1,0 +1,9 @@
+Package: de.mesh.browser
+Name: Browser
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Sicherer Lese-Browser: modernes TLS mit Zertifikatsprüfung, kein JavaScript, eigene Darstellung
+Maintainer: Second Track
+Author: Second Track
+Section: Utilities
+Depends: firmware (>= 6.0)

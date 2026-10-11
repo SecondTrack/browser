@@ -1,0 +1,12 @@
+/* Browser — Deutsch */
+"Address or search" = "Adresse oder Suche";
+"Browser" = "Browser";
+"Secure reading mode: modern encryption with certificate check, no JavaScript, no trackers. Enter an address or a search term above." = "Sicherer Lesemodus: moderne Verschlüsselung mit Zertifikatsprüfung, kein JavaScript, keine Tracker. Oben eine Adresse oder einen Suchbegriff eingeben.";
+"Search (DuckDuckGo)" = "Suche (DuckDuckGo)";
+"Stopped" = "Abgebrochen";
+"Loading %@ …" = "Lade %@ …";
+"Page could not be loaded" = "Seite konnte nicht geladen werden";
+"File type not supported" = "Dateityp wird nicht unterstützt";
+"Page is empty" = "Seite ist leer";
+"This page probably needs JavaScript, which is disabled for your safety." = "Diese Seite braucht vermutlich JavaScript – das ist zu deiner Sicherheit abgeschaltet.";
+"⚠ Not encrypted – %@" = "⚠ Nicht verschlüsselt – %@";

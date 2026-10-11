@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key><string>en</string>
+	<key>CFBundleLocalizations</key><array><string>en</string><string>de</string></array>
+	<key>CFBundleDisplayName</key><string>Browser</string>
+	<key>CFBundleExecutable</key><string>Browser</string>
+	<key>CFBundleIdentifier</key><string>de.mesh.browser</string>
+	<key>CFBundleName</key><string>Browser</string>
+	<key>CFBundlePackageType</key><string>APPL</string>
+	<key>CFBundleVersion</key><string>1.0</string>
+	<key>LSRequiresIPhoneOS</key><true/>
+	<key>CFBundleIconFiles</key><array><string>Icon.png</string><string>Icon@2x.png</string></array>
+	<key>UIPrerenderedIcon</key><true/>
+	<key>UIDeviceFamily</key><array><integer>1</integer></array>
+	<key>UIStatusBarHidden</key><false/>
+	<key>UIStatusBarStyle</key><string>UIStatusBarStyleDefault</string>
+	<key>UISupportedInterfaceOrientations</key><array><string>UIInterfaceOrientationPortrait</string></array>
+</dict>
+</plist>

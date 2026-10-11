@@ -1,0 +1,16 @@
+{
+  "id": "browser",
+  "name": "Browser",
+  "short": "Heutige Webseiten wieder lesen",
+  "category": "Medien",
+  "status": "da",
+  "ios": [
+    "6.1.6"
+  ],
+  "package": "de.mesh.browser",
+  "version": "0.1.0",
+  "repo": "SecondTrack/browser",
+  "requires": "",
+  "license": "GPL-3.0",
+  "install": "GitHub-Release: neuestes Release, Anhang *.deb"
+}
