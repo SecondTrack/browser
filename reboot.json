@@ -1,8 +1,8 @@
 {
   "id": "browser",
   "name": "Browser",
-  "short": "Heutige Webseiten wieder lesen",
-  "category": "Medien",
+  "short": "Read today's websites again",
+  "category": "Media",
   "status": "da",
   "ios": [
     "6.1.6"
@@ -12,5 +12,22 @@
   "repo": "SecondTrack/browser",
   "requires": "",
   "license": "GPL-3.0",
-  "install": "GitHub-Release: neuestes Release, Anhang *.deb"
+  "install": "GitHub release: latest release, *.deb asset",
+  "bundle": "de.mesh.browser",
+  "text": "Safe reader mode with modern encryption and certificate checks – no JavaScript, no trackers. Pages that the old Safari can no longer open work again.",
+  "features": [
+    "Modern encryption with certificate checks",
+    "Reader mode without JavaScript or trackers",
+    "Search via DuckDuckGo"
+  ],
+  "icon": "https://raw.githubusercontent.com/SecondTrack/browser/main/Resources/Icon@2x.png",
+  "private": false,
+  "short_de": "Heutige Webseiten wieder lesen",
+  "category_de": "Medien",
+  "text_de": "Sicherer Lesemodus mit moderner Verschlüsselung und Zertifikatsprüfung – ohne JavaScript, ohne Tracker. Damit gehen Seiten wieder auf, an denen der alte Safari scheitert.",
+  "features_de": [
+    "Moderne Verschlüsselung mit Zertifikatsprüfung",
+    "Lesemodus ohne JavaScript und Tracker",
+    "Suche über DuckDuckGo"
+  ]
 }
