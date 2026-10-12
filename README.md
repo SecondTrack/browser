@@ -1,4 +1,4 @@
-# Browser
+# Lumen
 
 **Read today's web on iOS 6 – with real TLS 1.3 and no JavaScript.**
 

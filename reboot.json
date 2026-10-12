@@ -1,6 +1,6 @@
 {
   "id": "browser",
-  "name": "Browser",
+  "name": "Lumen",
   "short": "Read today's websites again",
   "category": "Media",
   "status": "da",
@@ -8,7 +8,7 @@
     "6.1.6"
   ],
   "package": "de.mesh.browser",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repo": "SecondTrack/browser",
   "requires": "",
   "license": "GPL-3.0",
@@ -29,5 +29,6 @@
     "Moderne Verschlüsselung mit Zertifikatsprüfung",
     "Lesemodus ohne JavaScript und Tracker",
     "Suche über DuckDuckGo"
-  ]
+  ],
+  "name_de": "Lumen"
 }

@@ -4,10 +4,10 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key><string>en</string>
 	<key>CFBundleLocalizations</key><array><string>en</string><string>de</string></array>
-	<key>CFBundleDisplayName</key><string>Browser</string>
+	<key>CFBundleDisplayName</key><string>Lumen</string>
 	<key>CFBundleExecutable</key><string>Browser</string>
 	<key>CFBundleIdentifier</key><string>de.mesh.browser</string>
-	<key>CFBundleName</key><string>Browser</string>
+	<key>CFBundleName</key><string>Lumen</string>
 	<key>CFBundlePackageType</key><string>APPL</string>
 	<key>CFBundleVersion</key><string>1.0</string>
 	<key>LSRequiresIPhoneOS</key><true/>
