@@ -1,0 +1,9 @@
+Package: de.mesh.browser
+Name: Lumen
+Version: 0.1.2
+Architecture: iphoneos-arm
+Description: Sicherer Lese-Browser: modernes TLS mit Zertifikatsprüfung, kein JavaScript, eigene Darstellung
+Maintainer: Second Track
+Author: Second Track
+Section: Utilities
+Depends: firmware (>= 6.0)
